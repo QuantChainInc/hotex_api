@@ -1,0 +1,5 @@
+require_relative 'hotex_api/core_ext'
+require_relative 'hotex_api/config'
+require_relative 'hotex_api/auth'
+require_relative 'hotex_api/client'
+require_relative 'hotex_api/streaming_client'

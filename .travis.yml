@@ -1,0 +1,5 @@
+language: ruby
+rvm:
+  - 2.2.2
+notifications:
+  slack: hotex:F2FWrCANEK3QcjHC16OO541l
